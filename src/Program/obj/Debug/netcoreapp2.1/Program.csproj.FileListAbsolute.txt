@@ -1,0 +1,14 @@
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/src/Program/bin/Debug/netcoreapp2.1/Program.deps.json
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/src/Program/bin/Debug/netcoreapp2.1/Program.runtimeconfig.json
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/src/Program/bin/Debug/netcoreapp2.1/Program.runtimeconfig.dev.json
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/src/Program/bin/Debug/netcoreapp2.1/Program.dll
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/src/Program/bin/Debug/netcoreapp2.1/Program.pdb
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/src/Program/bin/Debug/netcoreapp2.1/Library.dll
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/src/Program/bin/Debug/netcoreapp2.1/Library.pdb
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/src/Program/obj/Debug/netcoreapp2.1/Program.csprojAssemblyReference.cache
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/src/Program/obj/Debug/netcoreapp2.1/Program.csproj.CoreCompileInputs.cache
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/src/Program/obj/Debug/netcoreapp2.1/Program.AssemblyInfoInputs.cache
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/src/Program/obj/Debug/netcoreapp2.1/Program.AssemblyInfo.cs
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/src/Program/obj/Debug/netcoreapp2.1/Program.csproj.CopyComplete
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/src/Program/obj/Debug/netcoreapp2.1/Program.dll
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/src/Program/obj/Debug/netcoreapp2.1/Program.pdb

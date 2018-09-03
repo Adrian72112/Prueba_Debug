@@ -15,3 +15,20 @@
 /Users/adriantesore/Desktop/Programacion II/PII_Ejercicio_Debug_Test-master/tests/obj/Debug/netcoreapp2.1/Library.Tests.csproj.CopyComplete
 /Users/adriantesore/Desktop/Programacion II/PII_Ejercicio_Debug_Test-master/tests/obj/Debug/netcoreapp2.1/Library.Tests.dll
 /Users/adriantesore/Desktop/Programacion II/PII_Ejercicio_Debug_Test-master/tests/obj/Debug/netcoreapp2.1/Library.Tests.pdb
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/tests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/tests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/tests/bin/Debug/netcoreapp2.1/Library.Tests.deps.json
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/tests/bin/Debug/netcoreapp2.1/Library.Tests.runtimeconfig.json
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/tests/bin/Debug/netcoreapp2.1/Library.Tests.runtimeconfig.dev.json
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/tests/bin/Debug/netcoreapp2.1/Library.Tests.dll
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/tests/bin/Debug/netcoreapp2.1/Library.Tests.pdb
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/tests/bin/Debug/netcoreapp2.1/Library.dll
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/tests/bin/Debug/netcoreapp2.1/Library.pdb
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/tests/obj/Debug/netcoreapp2.1/Library.Tests.csprojAssemblyReference.cache
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/tests/obj/Debug/netcoreapp2.1/Library.Tests.csproj.CoreCompileInputs.cache
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/tests/obj/Debug/netcoreapp2.1/Library.Tests.AssemblyInfoInputs.cache
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/tests/obj/Debug/netcoreapp2.1/Library.Tests.AssemblyInfo.cs
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/tests/obj/Debug/netcoreapp2.1/Library.Tests.csproj.CopyComplete
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/tests/obj/Debug/netcoreapp2.1/Library.Tests.dll
+/Users/adriantesore/Documents/GitHub/Prueba_Debug/tests/obj/Debug/netcoreapp2.1/Library.Tests.pdb

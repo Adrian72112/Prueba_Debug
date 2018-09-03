@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/adriantesore/Desktop/Programacion II/PII_Ejercicio_Debug_Test-master/src/Library/Library.csproj",
+      "projectUniqueName": "/Users/adriantesore/Documents/GitHub/Prueba_Debug/src/Library/Library.csproj",
       "projectName": "Library",
-      "projectPath": "/Users/adriantesore/Desktop/Programacion II/PII_Ejercicio_Debug_Test-master/src/Library/Library.csproj",
+      "projectPath": "/Users/adriantesore/Documents/GitHub/Prueba_Debug/src/Library/Library.csproj",
       "packagesPath": "/Users/adriantesore/.nuget/packages/",
-      "outputPath": "/Users/adriantesore/Desktop/Programacion II/PII_Ejercicio_Debug_Test-master/src/Library/obj/",
+      "outputPath": "/Users/adriantesore/Documents/GitHub/Prueba_Debug/src/Library/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

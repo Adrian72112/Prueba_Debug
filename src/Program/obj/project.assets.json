@@ -703,11 +703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/adriantesore/Desktop/Programacion II/PII_Ejercicio_Debug_Test-master/src/Program/Program.csproj",
+      "projectUniqueName": "/Users/adriantesore/Documents/GitHub/Prueba_Debug/src/Program/Program.csproj",
       "projectName": "Program",
-      "projectPath": "/Users/adriantesore/Desktop/Programacion II/PII_Ejercicio_Debug_Test-master/src/Program/Program.csproj",
+      "projectPath": "/Users/adriantesore/Documents/GitHub/Prueba_Debug/src/Program/Program.csproj",
       "packagesPath": "/Users/adriantesore/.nuget/packages/",
-      "outputPath": "/Users/adriantesore/Desktop/Programacion II/PII_Ejercicio_Debug_Test-master/src/Program/obj/",
+      "outputPath": "/Users/adriantesore/Documents/GitHub/Prueba_Debug/src/Program/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -724,8 +724,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "/Users/adriantesore/Desktop/Programacion II/PII_Ejercicio_Debug_Test-master/src/Library/Library.csproj": {
-              "projectPath": "/Users/adriantesore/Desktop/Programacion II/PII_Ejercicio_Debug_Test-master/src/Library/Library.csproj"
+            "/Users/adriantesore/Documents/GitHub/Prueba_Debug/src/Library/Library.csproj": {
+              "projectPath": "/Users/adriantesore/Documents/GitHub/Prueba_Debug/src/Library/Library.csproj"
             }
           }
         }
